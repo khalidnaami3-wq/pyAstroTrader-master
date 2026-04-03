@@ -1,0 +1,11 @@
+env/
+notebooks/.ipynb_checkpoints/
+notebooks/input/.ipynb_checkpoints/
+.idea/
+
+notebooks/*.html
+notebooks/input/
+__pycache__/
+start.txt
+end.txt
+
